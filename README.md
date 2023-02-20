@@ -7,4 +7,4 @@ An improved discord token logger and comes with password recovery and obfuscatio
 
 then it should open the builder.exe automatically if not then manually open it.
 
-![image](https://user-images.githubusercontent.com/61936189/220053496-1b07d16a-b299-48b4-bb2e-4b9d7f0fb7b7.png)
+![image](https://user-images.githubusercontent.com/61936189/220053623-2850ba92-791d-4cdc-b8d7-93b7e1e8185e.png)

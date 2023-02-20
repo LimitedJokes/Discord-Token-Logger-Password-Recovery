@@ -6,7 +6,7 @@ discord
 discord.py
 pillow
 pypiwin32
- 
+
 tinyaes
 wheel   
 pyinstaller

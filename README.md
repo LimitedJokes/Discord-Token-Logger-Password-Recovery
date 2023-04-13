@@ -18,5 +18,3 @@ then it should open the builder.exe automatically if not then manually open it.
 + Better obfusucation
 
 + Some more little cool things
-
-
